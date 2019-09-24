@@ -4,12 +4,20 @@ data-gofflm
 
 [![License](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Reproducibility of Cuesta-Albertos *et al.* (2017)
---------------------------------------------------
+Reproducibility of Cuesta-Albertos et al. (2019)
+------------------------------------------------
 
-The directory [`/simulation`](https://github.com/egarpor/data-gofflm/tree/master/simulation) contains the scripts used in the simulation study of Cuesta-Albertos *et al.* (2017), as well as their `.RData` outputs.
+The directory
+[`/simulation`](https://github.com/egarpor/data-gofflm/tree/master/simulation)
+contains the scripts used in the simulation study of Cuesta-Albertos,
+García-Portugués, Febrero-Bande and González-Manteiga (2019), as well as
+their `.RData` outputs.
 
 References
 ----------
 
-Cuesta-Albertos, J. A., García-Portugués, E., Febrero-Bande, M. and González-Manteiga, W. (2017). Goodness-of-fit tests for the functional linear model based on randomly projected empirical processes. *arXiv:1701.08363*. <https://arxiv.org/abs/1701.08363>
+Cuesta-Albertos, J. A., García-Portugués, E., Febrero-Bande, M. and
+González-Manteiga, W. (2019). Goodness-of-fit tests for the functional
+linear model based on randomly projected empirical processes. *Annals of
+Statistics*, 47(1):439-467.
+<a href="https://doi.org/10.1214/18-AOS1693" class="uri">https://doi.org/10.1214/18-AOS1693</a>
