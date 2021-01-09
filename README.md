@@ -10,9 +10,8 @@ Reproducibility of Cuesta-Albertos et al. (2019)
 
 The directory
 [`/simulation`](https://github.com/egarpor/data-gofflm/tree/master/simulation)
-contains the scripts used in the simulation study of Cuesta-Albertos,
-García-Portugués, Febrero-Bande and González-Manteiga (2019), as well as
-their `.RData` outputs.
+contains the scripts used in the simulation study of Cuesta-Albertos et
+al. (2019), as well as their `.RData` outputs.
 
 References
 ----------
