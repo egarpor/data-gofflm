@@ -18,6 +18,6 @@ References
 
 Cuesta-Albertos, J. A., García-Portugués, E., Febrero-Bande, M., and
 González-Manteiga, W. (2019). Goodness-of-fit tests for the functional
-linear model based on randomly projected empirical processes. *Annals of
-Statistics*, 47(1):439-467.
+linear model based on randomly projected empirical processes. *The
+Annals of Statistics*, 47(1):439-467.
 [doi:10.1214/18-AOS1693](https://doi.org/10.1214/18-AOS1693).
